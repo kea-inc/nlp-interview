@@ -13,7 +13,7 @@ Up to 8 hours
 
 ## Submission
 1.  Fork this repo
-2.  Do what you got to do. Suggested libraries if you're going to be coding in JS
+2.  Do what you got to do. Use these libraries as you're going to be coding in JS
     -  node-nlp - [https://www.npmjs.com/package/node-nlp](https://www.npmjs.com/package/node-nlp)
 4.  Submit a Pull Request (PR)
 5.  In the PR, include a README that includes the following:
